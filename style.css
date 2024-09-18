@@ -67,11 +67,3 @@ body {
   height: var(--h);
   border-radius: 8px;
 }
-.developer {
-  margin-top: 410px;
-  /* margin-left: 0px; */
-}
-.developer i {
-  color: black;
-  text-decoration: underline;
-}
